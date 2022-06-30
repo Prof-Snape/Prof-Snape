@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prof-Snape
+- 👋 Hi, I’m Prof Snape
 - 👀 I’m currently pursuing my Bachelor of Technology (B.Tech.) in Computer Science (CS) from Jamia Hamdard, New Delhi.
 - 🌱 I’m currently learning Python.
 
